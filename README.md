@@ -202,8 +202,8 @@ http://<EC2-public-ip>:5080
 
 ## 👨‍💻 Author
 
-**\[saivinay]** — Passionate about MLOps, Software Engineering & End-to-End System Design.
-Let’s connect on [LinkedIn](https://linkedin.com) or check out more projects on [GitHub](https://github.com).
+**\sai vinay** — Passionate about MLOps, Software Engineering & End-to-End System Design.
+Let’s connect on [LinkedIn](www.linkedin.com/in/saivinay-palakurthy) or check out more projects on [GitHub](https://github.com/saivinay129).
 
 ---
 
